@@ -3,6 +3,11 @@
 
 <h4 align="center">💻 Programmer and Pentester</h4>
 
+<img 
+    src="https://i.pinimg.com/1200x/dc/fd/cf/dcfdcf67e6272d5a77e65955659d3ead.jpg" 
+    width="600"
+  />
+
 <p align="center">
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -29,8 +34,6 @@
 🌱 “He who has a why to live can bear almost any how.”
 — Friedrich Nietzsche
 </p>
-
-[![acrux's tryhackme stats](https://raw.githubusercontent.com/ACRUX/ACRUX/master/assets/thm_propic.png)][tryhackme]
 
 </div>
 <h1></h1>

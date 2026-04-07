@@ -6,15 +6,17 @@
 <div align="center">
 <img 
     src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" 
-    width="600"
+    width="500"
   />
 </div>
 
+<h4 align="center">💻 About Me</h4>
+
 <p align="center">
-🌱 Soy una persona interesada en la ciberseguridad y la programación. Me gusta aprender cómo funcionan los sistemas, leer sobre tecnología y poner en práctica lo que voy aprendiendo mediante proyectos. Actualmente estoy enfocado en mejorar mis habilidades poco a poco y seguir creciendo en este mundo.
+🌱 I'm interested in cybersecurity and programming. I enjoy learning how systems work, reading about technology, and putting what I learn into practice through projects. I'm currently focused on gradually improving my skills and continuing to grow in this field.
 </p>
 
-<h4 align="center">⚙ Stack</h4>
+<h4 align="center">⚙ Stack & Software</h4>
 
 <p align="center">
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -24,9 +26,6 @@
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
-
-<h4 align="center">⚙ Software</h4>
-
 <p align="center">
 <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -38,19 +37,17 @@
 </p>
 
 <br>
-<p align="center">
-🌱 “He who has a why to live can bear almost any how.”
-— Friedrich Nietzsche
-</p>
 
 </div>
-<h1></h1>
-
 <div align="center">
   <img 
     src="https://i.pinimg.com/originals/58/70/72/587072da657dcee567164c2ff718e08e.gif" 
     width="500"
   />
 </div>
-
+<br>
+<p align="center">  
+🌱 “He who has a why to live can bear almost any how.”
+— Friedrich Nietzsche
+</p>
 

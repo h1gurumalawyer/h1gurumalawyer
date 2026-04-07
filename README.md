@@ -32,6 +32,8 @@
 </div>
 <h1></h1>
 
+![THM ACRUX Badge](https://tryhackme-badges.onrender.com/api/user/ACRUX)
+
 <div align="center">
   <img 
     src="https://i.pinimg.com/1200x/dc/fd/cf/dcfdcf67e6272d5a77e65955659d3ead.jpg" 

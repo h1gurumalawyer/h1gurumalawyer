@@ -32,7 +32,7 @@
 </div>
 <h1></h1>
 
-![THM ACRUX Badge](https://tryhackme-badges.onrender.com/api/user/ACRUX)
+![tryhackme stats](https://raw.githubusercontent.com/ACRUX/ACRUX/master/assets/thm_propic.png)
 
 <div align="center">
   <img 
